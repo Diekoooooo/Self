@@ -1,0 +1,12 @@
+ابتدا پایتون ورژن 3.9 نصب کنید
+سپس با دستور زیر کتابخانه های مورد نظر را نصب کنید
+pip3 install -r requirements.txt
+سپس فایل کانفیگ رو ادیت کنید و با دستور زیر سلف رو ران کنید
+py3 main.py
+حالا شماره خودتون رو وارد کنید و تمام.
+
+
+
+t.me/python3_channel
+t.me/python3_channel
+t.me/python3_channel
